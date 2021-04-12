@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ARGunawan/WebDev-Assignment-5/zip-search/static/css/main.281fd92a.chunk.css",
-    "main.js": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/main.fcaef202.chunk.js",
-    "main.js.map": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/main.fcaef202.chunk.js.map",
-    "runtime-main.js": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/runtime-main.688df94a.js",
-    "runtime-main.js.map": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/runtime-main.688df94a.js.map",
-    "static/js/2.51b29fb5.chunk.js": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/2.51b29fb5.chunk.js",
-    "static/js/2.51b29fb5.chunk.js.map": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/2.51b29fb5.chunk.js.map",
-    "static/js/3.56697323.chunk.js": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/3.56697323.chunk.js",
-    "static/js/3.56697323.chunk.js.map": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/3.56697323.chunk.js.map",
-    "index.html": "/ARGunawan/WebDev-Assignment-5/zip-search/index.html",
-    "static/css/main.281fd92a.chunk.css.map": "/ARGunawan/WebDev-Assignment-5/zip-search/static/css/main.281fd92a.chunk.css.map",
-    "static/js/2.51b29fb5.chunk.js.LICENSE.txt": "/ARGunawan/WebDev-Assignment-5/zip-search/static/js/2.51b29fb5.chunk.js.LICENSE.txt"
+    "main.css": "/ARGunawan/WebDev-Assignment-5/static/css/main.281fd92a.chunk.css",
+    "main.js": "/ARGunawan/WebDev-Assignment-5/static/js/main.fcaef202.chunk.js",
+    "main.js.map": "/ARGunawan/WebDev-Assignment-5/static/js/main.fcaef202.chunk.js.map",
+    "runtime-main.js": "/ARGunawan/WebDev-Assignment-5/static/js/runtime-main.08e34145.js",
+    "runtime-main.js.map": "/ARGunawan/WebDev-Assignment-5/static/js/runtime-main.08e34145.js.map",
+    "static/js/2.51b29fb5.chunk.js": "/ARGunawan/WebDev-Assignment-5/static/js/2.51b29fb5.chunk.js",
+    "static/js/2.51b29fb5.chunk.js.map": "/ARGunawan/WebDev-Assignment-5/static/js/2.51b29fb5.chunk.js.map",
+    "static/js/3.56697323.chunk.js": "/ARGunawan/WebDev-Assignment-5/static/js/3.56697323.chunk.js",
+    "static/js/3.56697323.chunk.js.map": "/ARGunawan/WebDev-Assignment-5/static/js/3.56697323.chunk.js.map",
+    "index.html": "/ARGunawan/WebDev-Assignment-5/index.html",
+    "static/css/main.281fd92a.chunk.css.map": "/ARGunawan/WebDev-Assignment-5/static/css/main.281fd92a.chunk.css.map",
+    "static/js/2.51b29fb5.chunk.js.LICENSE.txt": "/ARGunawan/WebDev-Assignment-5/static/js/2.51b29fb5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.688df94a.js",
+    "static/js/runtime-main.08e34145.js",
     "static/js/2.51b29fb5.chunk.js",
     "static/css/main.281fd92a.chunk.css",
     "static/js/main.fcaef202.chunk.js"
